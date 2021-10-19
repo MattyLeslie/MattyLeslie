@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MattyLeslie
 - 👀 I’m interested in all things programmable with a passion for innovative technologies that could help the world go round.
-- 🌱 I’m currently learning python, C# (.net core) and jQuery
+- 🌱 I’m currently learning python, C# (.net core) and c++.
 - 💞️ I’m looking to collaborate on an open source project that is not overly complex and may help me grow as a software engineer.
 - 📫 You can reach me on mattlesliee@gmail.com
 
